@@ -2,7 +2,7 @@
 
 Instructions:
 
-As part of our hiring process you are required to build web-based applications which meets the below requirements.
+As part of our hiring process you are required to build web-based application which meets the below requirements.
 This will be integrated with an existing portal
 -	The current/existing portal is html based
 -	Your solution should be able to integrate/embed with the current portal
